@@ -1,2 +1,6 @@
 # always ignore files
 *.DS_Store
+
+# always metadata
+.metadata/
+.recommenders/
